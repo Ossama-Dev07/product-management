@@ -74,6 +74,7 @@
                         <div class="form-group" style="color:red;">
                             <?php echo $erreur; ?>
                         </div>
+                        i don't have an account ? <span class="font-weight-bold"><a href="Signup.php">Signup</a> </span>
                     </form>
                 </div>
                 <div class="col-md-3">
